@@ -7,6 +7,6 @@
     <groupId>Forum_git</groupId>
     <artifactId>Forum_git</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>phar</packaging>
 
 </project>
