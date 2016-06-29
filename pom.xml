@@ -6,30 +6,6 @@
     <groupId>Forum_git</groupId>
     <artifactId>Forum_git</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <build>
-    <plugins>
-        <plugin>
-            <groupId>Forum_git</groupId>
-            <artifactId>Forum_git</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <executions>
-                <execution>
-                    <id>id.compile</id>
-                    <phase>compile</phase>
-                    <goals>
-                        <goal>run</goal>
-                    </goals>
-                    <configuration>
-                        <tasks>
-                            <echo>Phase de compilation</echo>
-                        </tasks>
-                    </configuration>
-                </execution>
-            </executions>
-        </plugin>
-    </plugins>
-</build>
-
 
 
 </project>
