@@ -64,7 +64,7 @@ CREATE TABLE `users` (
 
 Lorsque vous aurez créé ces tables, vous devrez mettre les identifiants de la base de donnée dans le fichier config.php
 
-Ensuite, vous devez vous inscrire sur votre forum. Lorsque se sera fait, modifiez la variable $admin du fichier config.php pour y donner comme valeur le nom d'utilisateur que vous avez utilisé lors de votre inscription. Cette variable indique quel est l'administrateur du site en se basant sur son nom d'utilisateur.
+Ensuite, vous devez vous inscrire sur votre forum. Lorsque se sera fait, modifiez la variable $admin du fichier config.php pour y donner comme valeur le nom d'utilisateur que vous avez utilisé lors de votre inscription. Cette variable indique quel est l'administrateur du site en se basant sur son nom d'utilisateur.yeeeeeeeeeeeees
 
 Votre forum sera alors fonctionnel.fcgvhbn,;rdfgvhj
 
