@@ -60,7 +60,7 @@ CREATE TABLE `users` (
 
 
 
-
+#azrerty
 
 Lorsque vous aurez créé ces tables, vous devrez mettre les identifiants de la base de donnée dans le fichier config.php
 
