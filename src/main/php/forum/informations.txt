@@ -2,7 +2,7 @@ Pour pouvoir utiliser ce système de forum, vous devez créer les tables "users"
 Voici la requete SQL à effectuer:
 
 --
--- Structure de la table `categories`
+-- Structure de la table `categories`abc
 --
 
 CREATE TABLE `categories` (
