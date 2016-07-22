@@ -14,7 +14,7 @@ CREATE TABLE `categories` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
--- Structure de la table `pm`
+-- Structure de la table `pm`abc
 --
 
 CREATE TABLE `pm` (
