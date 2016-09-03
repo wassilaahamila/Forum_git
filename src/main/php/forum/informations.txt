@@ -46,7 +46,7 @@ CREATE TABLE `topics` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
--- Structure de la table `users`   verif
+-- Structure de la table `users`   verificatioon_code
 --
 
 CREATE TABLE `users` (
